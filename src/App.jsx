@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 function App() {
   return (
     <CardWrapper>
-      <Card.Img variant='top' src='../../public/Desert_Electric.jpg'></Card.Img>
+      <Card.Img variant='top' src='../public/Desert_Electric.jpg'></Card.Img>
     </CardWrapper>
   )
 }
