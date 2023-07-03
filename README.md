@@ -4,4 +4,6 @@
 
 Отличие данной карточки от дефолтных состоит в том, что элемент `Card.Img` поступает в компонент в качестве `props.children`
 <br>
+<br>
+
 <img src="./element-props-demo.png" width="400">
